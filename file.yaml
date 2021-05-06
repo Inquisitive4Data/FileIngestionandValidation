@@ -1,0 +1,10 @@
+file_type: tsv
+file_name: old-newspaper
+inbound_delimiter: "\t"
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Language
+    - Source
+    - Date
+    - Text
